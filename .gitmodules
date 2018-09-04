@@ -1,6 +1,7 @@
 [submodule "VTK"]
 	path = VTK
 	url = https://github.com/newfoundry/VTK.git
+	branch = allow-native-openglwindow
 [submodule "Utilities/VisItBridge"]
 	path = Utilities/VisItBridge
 	url = https://gitlab.kitware.com/paraview/visitbridge.git
